@@ -1,2 +1,5 @@
 Add A+ b = C
 Add D to C
+
+subtract A-B 
+Display value
